@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC1B215B2A2B501E002B93F1 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC1B215A2A2B501E002B93F1 /* FavoriteButton.swift */; };
 		EC245B8E2A2A5C4400160D83 /* SwiftUITutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC245B8D2A2A5C4400160D83 /* SwiftUITutorialApp.swift */; };
 		EC245B902A2A5C4400160D83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC245B8F2A2A5C4400160D83 /* ContentView.swift */; };
 		EC245B922A2A5C4600160D83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC245B912A2A5C4600160D83 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC1B215A2A2B501E002B93F1 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 		EC245B8A2A2A5C4400160D83 /* SwiftUITutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC245B8D2A2A5C4400160D83 /* SwiftUITutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialApp.swift; sourceTree = "<group>"; };
 		EC245B8F2A2A5C4400160D83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				EC245BA82A2A820B00160D83 /* LandmarkRow.swift */,
 				EC245BAA2A2A832700160D83 /* LandmarkList.swift */,
 				EC245BAC2A2A83EC00160D83 /* LandmarkDetail.swift */,
+				EC1B215A2A2B501E002B93F1 /* FavoriteButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				EC245B902A2A5C4400160D83 /* ContentView.swift in Sources */,
 				EC245B9E2A2A6F1A00160D83 /* MapView.swift in Sources */,
 				EC245B8E2A2A5C4400160D83 /* SwiftUITutorialApp.swift in Sources */,
+				EC1B215B2A2B501E002B93F1 /* FavoriteButton.swift in Sources */,
 				EC245BAB2A2A832700160D83 /* LandmarkList.swift in Sources */,
 				EC245BAD2A2A83EC00160D83 /* LandmarkDetail.swift in Sources */,
 				EC245B9C2A2A6E7900160D83 /* CircleImage.swift in Sources */,
